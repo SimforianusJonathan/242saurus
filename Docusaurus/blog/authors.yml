@@ -1,3 +1,21 @@
+SimforianusJonathan:
+  name:Simforianus Jonathan Flonas Harefa
+  title: CompSci Student - Universitas Indonesia
+  url: https://github.com/SimforianusJonathan
+  image_url: https://github.com/SimforianusJonathan.png
+  page: true
+  socials:
+    github: SimforianusJonathan
+
+FaiziIsmady:
+  name: Muhammad Faizi Ismady
+  title: ComSci Student - Universitas Indonesia
+  url: https://github.com/FaiziIsmady
+  image_url: https://github.com/FaiziIsmady.png
+  page: true
+  socials:
+    github:FaiziIsmady
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
