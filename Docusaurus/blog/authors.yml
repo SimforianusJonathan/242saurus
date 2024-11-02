@@ -1,5 +1,5 @@
 SimforianusJonathan:
-  name:Simforianus Jonathan Flonas Harefa
+  name: Simforianus Jonathan Flonas Harefa
   title: CompSci Student - Universitas Indonesia
   url: https://github.com/SimforianusJonathan
   image_url: https://github.com/SimforianusJonathan.png
@@ -14,7 +14,7 @@ FaiziIsmady:
   image_url: https://github.com/FaiziIsmady.png
   page: true
   socials:
-    github:FaiziIsmady
+    github: FaiziIsmady
 
 yangshun:
   name: Yangshun Tay
